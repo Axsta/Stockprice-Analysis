@@ -2,6 +2,8 @@
 
 This project analyzes historical stock price data to extract insights that can guide investment strategy, risk management, and financial planning. Using Python, publicly available market data, and visualization tools, this analysis helps connect raw data with actionable business decisions.
 
+![image](https://github.com/user-attachments/assets/e1aafd27-2822-46e5-a647-39c6609e6078)
+
 ---
 
 ##  Business Objective
